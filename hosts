@@ -13,6 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 offerwall.yandex.net
